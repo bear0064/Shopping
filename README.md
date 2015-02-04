@@ -28,7 +28,7 @@ Alternatively, you can transfer the file via USB cable.
 
 ## Community
 
-* Follow [@bear6310 on Twitter](https://twitter.com/bear6310).
+* Follow [@bear631 on Twitter](https://twitter.com/bear631).
 * Have a feature request or find a bug? [Submit an issue](mailto:bear.caleb@gmail.com).
 
 ## Authors
